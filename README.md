@@ -1,1 +1,1 @@
-# College-Registration-System
+This program simulates a college registration system.
